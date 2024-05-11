@@ -1,0 +1,34 @@
+:root {
+	font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+	line-height: 1.5;
+	--black-color: #000000;
+	--black-light-color: #2a2a2a;
+	--gray-color: #808080;
+	--gray-light-color: #d3d3d3;
+	--gray-dark-color: #2a2a2a;
+	--green-color: #098409;
+	--red-color: #ff100f;
+	--white-color: #ffffff;
+}
+
+/* Remove margin */
+h1,
+h2,
+h3,
+h4,
+p,
+li,
+figure,
+figcaption,
+blockquote,
+dl,
+dd {
+	margin: 0;
+}
+
+ul,
+ol {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}

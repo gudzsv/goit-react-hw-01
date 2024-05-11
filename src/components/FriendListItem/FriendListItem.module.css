@@ -1,0 +1,30 @@
+.card {
+	border: 4px solid var(--black-color);
+	border-radius: 12px;
+	text-align: center;
+	padding: 20px;
+	min-width: 100px;
+}
+
+.card img {
+	width: 80px;
+	margin-bottom: 26px;
+}
+
+.cardTitle {
+	font-weight: 500;
+	font-size: 28px;
+}
+
+.online {
+	color: var(--green-color);
+}
+
+.offline {
+	color: var(--red-color);
+}
+
+p {
+	font-size: 20px;
+	font-weight: bold;
+}
